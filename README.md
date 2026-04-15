@@ -1,4 +1,4 @@
-# Praktek_AGV_Undiksha
+# Praktek AGV Undiksha
 Praktikum Rekayasa Mikrokontroler dalam Bidang Automated Guided Vehicle 
 Bersama Mahasiswa TRSE UNDIKSHA SINGARAJA
 
