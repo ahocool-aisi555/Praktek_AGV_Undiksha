@@ -6,7 +6,7 @@ Bersama Mahasiswa TRSE UNDIKSHA SINGARAJA
 
 # Tujuan Praktek kali ini 
 
-Memperkenalkan praktek mikrokontroler yang dihubungkan dengan otomotif, dalam hal ini mengenai Automatic Guided Vehicle (AGV) <br>
+Memperkenalkan praktek mikrokontroler yang dihubungkan dengan otomotif,<br> dalam hal ini mengenai Automatic Guided Vehicle (AGV) <br>
 Dalam 4 kali pertemuan peserta akan dibimbing untuk:
 <br><br>
 1 . Merubah mobil RC truck 27/49 Mhz menjadi berbasis wifi<br>
