@@ -1,3 +1,8 @@
+# Script python untuk deteksi kotak warna biru
+# by : nyoman yudi kurniawan
+# untuk : TRSE Undiksha 2026
+# www.aisi555.com
+
 import cv2
 import numpy as np
 
