@@ -1,3 +1,8 @@
+//Remote AGV via UDP
+//by : nyoman yudi kurniawan
+//untuk : TRSE Undiksha 2026
+//www.aisi555.com
+
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
@@ -10,7 +15,8 @@
 // Kredensial & Konfigurasi
 const char* ssid = "PraktikumMikro";
 const char* password = "pr4ktikum";
-IPAddress local_IP(192, 168, 0, 10);
+
+IPAddress local_IP(192, 168, 0, 10); //Sesuaikan dengan IP wemos kamu, jangan sapai bentrok
 IPAddress gateway(192, 168, 0, 1);
 IPAddress subnet(255, 255, 255, 0);
 
@@ -129,9 +135,9 @@ void eksekusiPerintah(char cmd) {
       return; // Abaikan jika karakter tidak dikenal
   }
   
-  // Delay sesuai keinginan lama pencet tombol
+  // Delay sesuai keinginan, efeknya di lama pencet tombol
   delay(400);
 
-  // berhenti dan tidak disesuaikan kebutuhan remote  
+  // berhenti dan tidak, harap disesuaikan kebutuhan kontrol ke AGV
   berhenti(); 
 }
