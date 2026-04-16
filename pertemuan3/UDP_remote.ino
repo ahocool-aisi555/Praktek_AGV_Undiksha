@@ -1,4 +1,4 @@
-//Remote AGV via UDP
+//Remote AGV via UDP - Ini script paling akhir di ESP
 //by : nyoman yudi kurniawan
 //untuk : TRSE Undiksha 2026
 //www.aisi555.com
@@ -138,6 +138,6 @@ void eksekusiPerintah(char cmd) {
   // Delay sesuai keinginan, efeknya di lama pencet tombol
   delay(400);
 
-  // berhenti dan tidak, harap disesuaikan kebutuhan kontrol ke AGV
+  // berhenti atau tidak, harap disesuaikan kebutuhan kontrol ke RC truck
   berhenti(); 
 }
