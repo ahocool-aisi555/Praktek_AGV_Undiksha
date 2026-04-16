@@ -12,7 +12,7 @@ Dalam 4 kali pertemuan peserta akan dibimbing untuk:
 1 . Merubah mobil RC truck 27/49 Mhz menjadi berbasis wifi<br>
 2.  Merancang AGV sederhana dengan ESP sebagai web server dan console urutan pergerakan kendaraan <br>
 3.  Memahami konsep kontrol berbasis TCP-IP/UDP<br>
-4. Berkenalan dengan RC berbasis Machine Vision / kamera<br>
+4.  Berkenalan dengan RC-AGV berbasis Machine Vision / kamera<br>
 
 <img width="458" height="271" alt="aoi-udp-agv" src="https://github.com/user-attachments/assets/3e3b1b2c-657a-4968-87dc-2094b8900030" />
 
