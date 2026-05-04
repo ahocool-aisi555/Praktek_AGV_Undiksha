@@ -6,10 +6,10 @@
 
 
 // Pin kendali (aktif HIGH , sesuaikan dengan pin yang digunakan)
-#define MAJU_PIN    D5
-#define MUNDUR_PIN  D1
-#define KANAN_PIN   D6
-#define KIRI_PIN    D2
+#define MAJU_PIN    D1
+#define MUNDUR_PIN  D2
+#define KANAN_PIN   D5
+#define KIRI_PIN    D6
 
 
 void setup() {
