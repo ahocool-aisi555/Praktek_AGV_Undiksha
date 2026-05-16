@@ -18,4 +18,4 @@ Dalam 4 kali pertemuan peserta akan dibimbing untuk:
 
 # Dokumentasi Peserta Praktikum
 
-<img width="800" height="400" alt="mikro26_2" src="https://github.com/user-attachments/assets/cd9b61f1-c4ed-4444-b515-35f36ec31384" />
+<img width="600" height="400" alt="mikro26_2" src="https://github.com/user-attachments/assets/cd9b61f1-c4ed-4444-b515-35f36ec31384" />
