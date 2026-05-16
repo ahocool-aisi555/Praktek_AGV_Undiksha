@@ -16,3 +16,6 @@ Dalam 4 kali pertemuan peserta akan dibimbing untuk:
 
 <img width="458" height="271" alt="aoi-udp-agv" src="https://github.com/user-attachments/assets/3e3b1b2c-657a-4968-87dc-2094b8900030" />
 
+# Dokumentasi Peserta Praktikum
+
+<img width="800" height="400" alt="mikro26_2" src="https://github.com/user-attachments/assets/cd9b61f1-c4ed-4444-b515-35f36ec31384" />
